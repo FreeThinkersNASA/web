@@ -3,10 +3,24 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 
-import type { AppProps } from 'next/app';
+import '../style.css';
 
-function MyApp({ Component, pageProps }: AppProps) {
-    return <Component {...pageProps} />;
+import { type AppProps } from 'next/app';
+import { createTheme, CssBaseline, ThemeProvider } from '@mui/material';
+
+const darkTheme = createTheme({
+    palette: {
+        mode: 'dark',
+    },
+});
+
+function App({ Component, pageProps }: AppProps) {
+    return (
+        <ThemeProvider theme={darkTheme}>
+            <CssBaseline />
+            <Component {...pageProps} />
+        </ThemeProvider>
+    );
 }
 
-export default MyApp;
+export default App;

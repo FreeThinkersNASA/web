@@ -4,11 +4,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 export default function Document() {
     return (
         <Html>
-            <Head>
-                {/* eslint-disable-next-line @next/next/no-css-tags */}
-                <link rel='stylesheet' href='cesium/Widgets/widgets.css' />
-                <CssBaseline />
-            </Head>
+            <Head />
 
             <body>
                 <Main />
