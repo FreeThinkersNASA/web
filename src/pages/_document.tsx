@@ -5,10 +5,8 @@ export default function Document() {
     return (
         <Html>
             <Head>
-                <meta
-                    name='viewport'
-                    content='initial-scale=1, width=device-width'
-                />
+                {/* eslint-disable-next-line @next/next/no-css-tags */}
+                <link rel='stylesheet' href='cesium/Widgets/widgets.css' />
                 <CssBaseline />
             </Head>
 
