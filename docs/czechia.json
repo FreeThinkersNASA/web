@@ -6360,7 +6360,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#EC7063"
+                "color": "#EC7063",
+                "temperature": "8.92 °C",
+                "irradiance":"3.03 kW/m^2",
+                "windSpeed":"20.09 m/s",
+                "precipitation":"1.75 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6391,7 +6395,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#EC7063"
+                "color": "#EC7063",
+                "temperature": "8.92 °C",
+                "irradiance":"3.03 kW/m^2",
+                "windSpeed":"20.09 m/s",
+                "precipitation":"1.75 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6420,7 +6428,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6445,7 +6457,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6468,7 +6484,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6489,7 +6509,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6511,7 +6535,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6533,7 +6561,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54",
+                "irradiance":"3.02",
+                "windSpeed":"18.66",
+                "precipitation":"2.13"
             },
             "geometry": {
                 "type": "Polygon",
