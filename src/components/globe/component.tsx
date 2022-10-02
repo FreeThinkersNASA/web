@@ -5,13 +5,12 @@ import { useElementSize } from 'usehooks-ts';
 export function Component() {
     const [ref, { width, height }] = useElementSize();
 
-    const [countries, setCountries] = useState({ features: [] });
+    const [data, setData] = useState({ features: [] });
 
     useEffect(() => {
-        // load data
         fetch('/czechia.json')
             .then((res) => res.json())
-            .then(setCountries);
+            .then(setData);
     }, []);
 
     return (
@@ -20,16 +19,8 @@ export function Component() {
                 width={width}
                 height={height}
                 globeImageUrl='/earth.jpg'
-                hexPolygonsData={countries.features}
-                hexPolygonColor={(i: any) => {
-                    console.log(i);
-                    return (
-                        i.properties.color ?? '#000'
-                        // `#${Math.round(Math.random() * Math.pow(2, 24))
-                        //     .toString(16)
-                        //     .padStart(6, '0')}`
-                    );
-                }}
+                hexPolygonsData={data.features}
+                hexPolygonColor={(i: any) => i?.properties?.color ?? '#fff'}
                 hexPolygonResolution={5}
                 hexPolygonMargin={0.1}
             />
