@@ -9,7 +9,11 @@
                 "stroke-width": 3,
                 "stroke-opacity": 0.7,
                 "fill": "#ac2228",
-                "fill-opacity": 0.2
+                "fill-opacity": 0.2,
+                "temperature": "8.32 °C",
+                "irradiance":"3.17 kW/m^2",
+                "windSpeed":"15.2 m/s",
+                "precipitation":"1.87 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6360,7 +6364,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#EC7063"
+                "color": "#EC7063",
+                "temperature": "8.92 °C",
+                "irradiance":"3.03 kW/m^2",
+                "windSpeed":"20.09 m/s",
+                "precipitation":"1.75 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6391,7 +6399,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#EC7063"
+                "color": "#EC7063",
+                "temperature": "8.92 °C",
+                "irradiance":"3.03 kW/m^2",
+                "windSpeed":"20.09 m/s",
+                "precipitation":"1.75 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6420,7 +6432,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6445,7 +6461,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6468,7 +6488,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6489,7 +6513,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6511,7 +6539,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6533,7 +6565,11 @@
                 "shape": "Polygon",
                 "name": "Unnamed Layer",
                 "category": "default",
-                "color": "#3498DB"
+                "color": "#3498DB",
+                "temperature": "7.54 °C",
+                "irradiance":"3.02 kW/m^2",
+                "windSpeed":"18.66 m/s",
+                "precipitation":"2.13 mm"
             },
             "geometry": {
                 "type": "Polygon",
